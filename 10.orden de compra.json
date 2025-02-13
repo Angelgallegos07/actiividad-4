@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "cliente": "Carlos Ruiz",
+    "productos": [
+      { "nombre": "Laptop", "precio": 1000 },
+      { "nombre": "Mouse", "precio": 20 },
+      { "nombre": "Teclado", "precio": 50 }
+    ],
+    "total": 1070
+  },
+  {
+    "id": 2,
+    "cliente": "María López",
+    "productos": [
+      { "nombre": "Celular", "precio": 700 },
+      { "nombre": "Funda", "precio": 15 }
+    ],
+    "total": 715
+  },
+  {
+    "id": 3,
+    "cliente": "José Gómez",
+    "productos": [
+      { "nombre": "Monitor", "precio": 300 },
+      { "nombre": "Parlantes", "precio": 40 }
+    ],
+    "total": 340
+  },
+  {
+    "id": 4,
+    "cliente": "Lucía Fernández",
+    "productos": [
+      { "nombre": "Auriculares", "precio": 100 },
+      { "nombre": "Mochila", "precio": 45 }
+    ],
+    "total": 145
+  },
+  {
+    "id": 5,
+    "cliente": "Pedro Sánchez",
+    "productos": [
+      { "nombre": "Tablet", "precio": 250 },
+      { "nombre": "Papel", "precio": 5 }
+    ],
+    "total": 255
+  }
+]

@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Laptop",
+      "precio": 900,
+      "categoria": "Electrónica",
+      "stock": 15
+    },
+    {
+      "nombre": "Camiseta",
+      "precio": 17,
+      "categoria": "Ropa",
+      "stock": 50
+    },
+    {
+      "nombre": "Cafetera",
+      "precio": 120,
+      "categoria": "Electrodomésticos",
+      "stock": 30
+    },
+    {
+      "nombre": "Smartphone",
+      "precio": 760,
+      "categoria": "Electrónica",
+      "stock": 25
+    },
+    {
+      "nombre": "Zapatos",
+      "precio": 45,
+      "categoria": "Ropa",
+      "stock": 40
+    }
+  ]
+  

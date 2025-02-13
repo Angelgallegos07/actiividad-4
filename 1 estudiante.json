@@ -1,0 +1,33 @@
+[
+    {
+      "nombre": "Juan Pérez",
+      "edad": 21,
+      "carrera": "Ingeniería",
+      "promedio": 8.75
+    },
+    {
+      "nombre": "Ana García",
+      "edad": 22,
+      "carrera": "Medicina",
+      "promedio": 8.75
+    },
+    {
+      "nombre": "Luis Fernández",
+      "edad": 20,
+      "carrera": "Arquitectura",
+      "promedio": 6.75
+    },
+    {
+      "nombre": "María López",
+      "edad": 23,
+      "carrera": "Derecho",
+      "promedio": 8.75
+    },
+    {
+      "nombre": "Carlos Martínez",
+      "edad": 24,
+      "carrera": "Psicología",
+      "promedio": 7.5
+    }
+  ]
+  

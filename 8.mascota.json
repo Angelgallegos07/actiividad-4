@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Fido",
+    "especie": "Perro",
+    "edad": 4,
+    "dueño": "Carlos"
+  },
+  {
+    "nombre": "Whiskers",
+    "especie": "Gato",
+    "edad": 2,
+    "dueño": "María"
+  },
+  {
+    "nombre": "Pepe",
+    "especie": "Pájaro",
+    "edad": 1,
+    "dueño": "José"
+  },
+  {
+    "nombre": "Luna",
+    "especie": "Conejo",
+    "edad": 4,
+    "dueño": "Ana"
+  },
+  {
+    "nombre": "Max",
+    "especie": "Hamster",
+    "edad": 1,
+    "dueño": "Luis"
+  }
+]

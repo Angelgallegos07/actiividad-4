@@ -1,0 +1,37 @@
+[
+  {
+    "nombre": "Carlos Pérez",
+    "puesto": "Desarrollador",
+    "salario": 3000,
+    "añosExperiencia": 3,
+    "bono": 300
+  },
+  {
+    "nombre": "Ana Gómez",
+    "puesto": "Diseñadora",
+    "salario": 2800,
+    "añosExperiencia": 5,
+    "bono": 280
+  },
+  {
+    "nombre": "Luis Martínez",
+    "puesto": "Gerente",
+    "salario": 4500,
+    "añosExperiencia": 10,
+    "bono": 450
+  },
+  {
+    "nombre": "Sofía Rodríguez",
+    "puesto": "Analista",
+    "salario": 3200,
+    "añosExperiencia": 6,
+    "bono": 320
+  },
+  {
+    "nombre": "Juan López",
+    "puesto": "Project Manager",
+    "salario": 5000,
+    "añosExperiencia": 8,
+    "bono": 500
+  }
+]

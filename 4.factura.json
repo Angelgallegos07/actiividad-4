@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cliente": "Carlos Pérez",
+    "productos": [
+      "Producto A",
+      "Producto B"
+    ],
+    "total": 200,
+    "IVA": 32
+  },
+  {
+    "id": 2,
+    "cliente": "Ana Gómez",
+    "productos": [
+      "Producto C",
+      "Producto D"
+    ],
+    "total": 350,
+    "IVA": 56
+  },
+  {
+    "id": 3,
+    "cliente": "Luis Martínez",
+    "productos": [
+      "Producto E",
+      "Producto F"
+    ],
+    "total": 420,
+    "IVA": 67.2
+  },
+  {
+    "id": 4,
+    "cliente": "Sofía Rodríguez",
+    "productos": [
+      "Producto G",
+      "Producto H"
+    ],
+    "total": 280,
+    "IVA": 44.8
+  },
+  {
+    "id": 5,
+    "cliente": "Juan López",
+    "productos": [
+      "Producto I",
+      "Producto J"
+    ],
+    "total": 500,
+    "IVA": 80
+  }
+]

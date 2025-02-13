@@ -1,0 +1,43 @@
+[
+  {
+    "nombre": "JavaScript Básico",
+    "duracion": "3 meses",
+    "instructor": "Juan Pérez",
+    "costo": 1500,
+    "estudiantes": [
+      "Carlos Ruiz"
+    ]
+  },
+  {
+    "nombre": "Desarrollo Web",
+    "duracion": "4 meses",
+    "instructor": "Ana García",
+    "costo": 2000,
+    "estudiantes": [
+      "María López"
+    ]
+  },
+  {
+    "nombre": "Python para Principiantes",
+    "duracion": "2 meses",
+    "instructor": "Carlos Martínez",
+    "costo": 1200,
+    "estudiantes": [
+      "José Gómez"
+    ]
+  },
+  {
+    "nombre": "Programación Avanzada en C",
+    "duracion": "6 meses",
+    "instructor": "Lucía Fernández",
+    "costo": 2500,
+    "estudiantes": []
+  },
+  {
+    "nombre": "React y Redux",
+    "duracion": "2.5 meses",
+    "instructor": "Pedro Sánchez",
+    "costo": 1800,
+    "estudiantes": []
+  }
+]

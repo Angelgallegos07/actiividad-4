@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Concierto de Rock",
+    "fecha": "2025-03-18",
+    "lugar": "Estadio Nacional",
+    "costoEntrada": 150
+  },
+  {
+    "nombre": "Teatro de Comedia",
+    "fecha": "2025-04-20",
+    "lugar": "Teatro Principal",
+    "costoEntrada": 50
+  },
+  {
+    "nombre": "Feria de Ciencia",
+    "fecha": "2025-05-10",
+    "lugar": "Centro de Convenciones",
+    "costoEntrada": 20
+  },
+  {
+    "nombre": "Exposición de Arte",
+    "fecha": "2025-06-05",
+    "lugar": "Museo de Arte Moderno",
+    "costoEntrada": 30
+  },
+  {
+    "nombre": "Festival Gastronómico",
+    "fecha": "2025-07-12",
+    "lugar": "Parque Central",
+    "costoEntrada": 10
+  }
+]
